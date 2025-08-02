@@ -1,9 +1,8 @@
 ## 📌 Project Title: **Signal Processing for Audio Classification**
 
 <div align="center">
-  <img src="Title.png" alt="Topic">
+  <img src="Title.png" alt="Topic" style="width: 350px; height: auto;">
 </div><br>
-
 
 ---
 
@@ -128,7 +127,7 @@ MIT License
 ---
 
 <div align="center">
-  <img src="Team.png" alt="Team">
+  <img src="Team.png" alt="Team" style="width: 350px; height: auto;">
 </div><br>
 
 ---
