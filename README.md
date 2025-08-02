@@ -125,9 +125,3 @@ This project was completed as part of a **Digital Signal Processing(DSP)** acade
 MIT License
 
 ---
-
-<div align="center">
-  <img src="Team.png" alt="Team" style="width: 350px; height: auto;">
-</div><br>
-
----
